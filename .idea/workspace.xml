@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b0df4599-5bcd-44df-8b24-5108fea23ab3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/redis.md" beforeDir="false" afterPath="$PROJECT_DIR$/redis.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -54,9 +54,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="580" />
-    <option name="y" value="36" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-85" />
+    <option name="y" value="45" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
@@ -171,21 +171,23 @@
       <option name="presentableId" value="Default" />
       <updated>1550976583870</updated>
       <workItem from="1550976591821" duration="5664000" />
+      <workItem from="1551082446438" duration="179000" />
+      <workItem from="1551099546170" duration="595000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5664000" />
+    <option name="totallyTimeSpent" value="6438000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-85" y="45" width="1346" height="688" extended-state="0" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2643857" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
